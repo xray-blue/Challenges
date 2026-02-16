@@ -1,44 +1,69 @@
 {
   "challenges": [
     {
-      "id": "ch_1",
-      "title": "تحدي الأسبوع: الرياضيات",
-      "description": "حل 10 مسائل قسمة طويلة وأرسل الصورة.",
-      "xpReward": 200,
-      "coinReward": 50
+      "id": "challenge_math_01",
+      "title": "تحدي العباقرة: الرياضيات",
+      "description": "حل 5 مسائل تفاضل معقدة وأرسل صورة الحل.",
+      "xpReward": 300,
+      "coinReward": 100
     },
     {
-      "id": "ch_2",
-      "title": "نشاط العلوم",
-      "description": "قم برسم دورة حياة النبات.",
-      "xpReward": 150,
+      "id": "challenge_science_01",
+      "title": "مختبر العلوم",
+      "description": "لخص فصل الوراثة في صفحة واحدة بخط اليد.",
+      "xpReward": 250,
+      "coinReward": 80
+    },
+    {
+      "id": "challenge_art_01",
+      "title": "الفنان المبدع",
+      "description": "ارسم لوحة تعبر عن الطبيعة بالألوان المائية.",
+      "xpReward": 400,
+      "coinReward": 150
+    },
+    {
+      "id": "challenge_sport_01",
+      "title": "العقل السليم",
+      "description": "مارس الرياضة لمدة 30 دقيقة وأرسل صورة من ساعتك الذكية.",
+      "xpReward": 200,
       "coinReward": 50
     }
   ],
   "gifts": [
     {
-      "id": "gift_special_001",
-      "targetUsername": "xmans", 
-      "message": "مبروك يا أحمد! لقد فزت بمسابقة الأوائل 🥇",
-      "xp": 1000,
-      "coins": 5000,
-      "type": "box"
+      "id": "gift_targeted_no_link",
+      "type": "box",
+      "targetUsername": "student_1",
+      "message": "هذه هدية خاصة لك لأنك طالب مجتهد! 🌟 (بدون رابط)",
+      "xp": 500,
+      "coins": 1000
     },
     {
-      "id": "gift_global_welcome",
-      "message": "هدية من الإدارة للجميع",
+      "id": "gift_global_no_link",
+      "type": "box",
+      "message": "هدية ترحيبية للجميع من إدارة التطبيق! 🎉",
       "xp": 100,
-      "coins": 50,
-      "type": "toast"
+      "coins": 50
+    },
+    {
+      "id": "gift_global_with_link",
+      "type": "box",
+      "message": "انضم لقناتنا الرسمية للحصول على ملخصات حصرية 📚",
+      "xp": 50,
+      "coins": 0,
+      "link": "https://t.me/StudentCompanionApp",
+      "linkLabel": "انضم للقناة"
+    },
+    {
+      "id": "gift_targeted_with_link",
+      "type": "box",
+      "targetUsername": "student_1",
+      "message": "لقد حصلت على شهادة تقدير خاصة! حملها الآن 📜",
+      "xp": 200,
+      "coins": 200,
+      "link": "https://example.com/certificate.pdf",
+      "linkLabel": "تحميل الشهادة"
     }
   ],
-  "specialBadges": [
-    {
-      "id": "badge_admin",
-      "targetUsername": "ahmed_2025",
-      "code": "ADMIN",
-      "label": "مشرف الصف",
-      "icon": "🛡️"
-    }
-  ]
+  "specialBadges": []
 }
