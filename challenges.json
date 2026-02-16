@@ -18,7 +18,7 @@
   "gifts": [
     {
       "id": "gift_special_001",
-      "targetUsername": "mans", 
+      "targetUsername": "xman", 
       "message": "مبروك يا أحمد! لقد فزت بمسابقة الأوائل 🥇",
       "xp": 1000,
       "coins": 5000,
