@@ -1,0 +1,44 @@
+{
+  "challenges": [
+    {
+      "id": "ch_math_01",
+      "title": "تحدي الرياضيات",
+      "description": "حل صفحة 50 وارسل الحل",
+      "xpReward": 100,
+      "coinReward": 20
+    },
+    {
+      "id": "ch_math_02",
+      "title": "تحدي العربي",
+      "description": "حل صفحة 15 وارسل الحل",
+      "xpReward": 100,
+      "coinReward": 20
+    }
+  ],
+  "gifts": [
+    {
+      "id": "gift_ali_01",
+      "targetStudent": "مهند",
+      "message": "مكافأة التميز في الحضور",
+      "xp": 200,
+      "coins": 100
+    },
+    {
+      "id": "gift_sara_01",
+      "targetStudent": "سارة احمد",
+      "message": "هدية حل الواجب الاضافي",
+      "xp": 500,
+      "coins": 0
+    }
+  ],
+  "specialBadges": [
+    {
+      "id": "badge_code_01",
+      "targetStudent": "مهند",
+      "code": "CODE-777",
+      "label": "قائد الفريق",
+      "icon": "👑",
+      "color": "bg-gradient-to-r from-yellow-400 to-orange-500"
+    }
+  ]
+}
