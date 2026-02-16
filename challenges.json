@@ -33,7 +33,7 @@
     {
       "id": "gift_targeted_no_link",
       "type": "box",
-      "targetUsername": "student_1",
+      "targetUsername": "mohamed12",
       "message": "هذه هدية خاصة لك لأنك طالب مجتهد! 🌟 (بدون رابط)",
       "xp": 500,
       "coins": 1000
