@@ -66,15 +66,6 @@
       "coins": 100
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_001",
-      "title": "إشعار خاص 🎯",
-      "message": "مرحباً @mortuza، لديك هدية جديدة داخل التطبيق!",
-      "targetUser": "@mortuza",
-      "createdAt": "2026-02-17T12:00:00Z",
-      "isRead": false
-    }
-  ],
+  "notifications": [],
   "specialBadges": []
 }
