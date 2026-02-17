@@ -2,25 +2,33 @@
   "challenges": [
     {
       "id": "daily_math_01",
-      "title": "تحدي الرياضيات اليومي",
-      "description": "قم بحل مسألة تكامل واحدة وأرسل الصورة.",
+      "title": "تحدي اليومي",
+      "description": "اعمل قلب في يدك وصور.",
       "xpReward": 300,
       "coinReward": 100,
       "durationMinutes": 5
     },
     {
       "id": "science_lab_01",
-      "title": "المختبر العلمي",
-      "description": "لخص تجربة الكيمياء الاخيرة في 3 أسطر.",
+      "title": "تحدي اليومي",
+      "description": "ارسم لعبة اكس او في يدك شرط ان يفوز ال اكس",
       "xpReward": 250,
-      "coinReward": 80,
+      "coinReward": 150,
+      "durationMinutes": 10
+    },
+    {
+      "id": "science_lab_03",
+      "title": "تحدي اليومي",
+      "description": "اعمل وجه الارنب بيدك ",
+      "xpReward": 250,
+      "coinReward": 120,
       "durationMinutes": 10
     }
   ],
   "redeemCodes": [
     {
       "code": "WELCOME2025",
-      "xp": 200,
+      "xp": 250,
       "coins": 100,
       "message": "هدية ترحيبية من التطبيق! 🎉"
     },
@@ -54,10 +62,20 @@
       "id": "gift_global_1",
       "type": "box",
       "message": "هدية للجميع بمناسبة انطلاق التطبيق",
-      "xp": 50,
-      "coins": 50
+      "xp": 100,
+      "coins": 100
     }
   ],
-  "notifications": [],
+"notifications": [
+  {
+    "id": "notif_001",
+    "title": "إشعار خاص 🎯",
+    "message": "مرحباً @mortuza، لديك هدية جديدة داخل التطبيق!",
+    "targetUser": "@mortuza",
+    "createdAt": "2026-02-17T12:00:00Z",
+    "isRead": false
+  }
+]
+
   "specialBadges": []
 }
