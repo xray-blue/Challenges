@@ -66,60 +66,6 @@
       "coins": 100
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_welcome",
-      "title": "مرحباً بك يا بطل!",
-      "message": "تم إضافة تحديات جديدة اليوم، جرب 'تحدي القلب' واكسب 300XP فوراً!",
-      "date": "اليوم",
-      "targetUsername": null
-    },
-    {
-      "id": "notif_gold",
-      "title": "عرض خاص",
-      "message": "استخدم الكود GOLD_PACK_1 للحصول على 1000 عملة مجانية.",
-      "date": "جديد",
-      "codeToCopy": "GOLD_PACK_1",
-      "targetUsername": null
-    },
-    {
-      "id": "notif_personal_ahmed",
-      "title": "رسالة خاصة",
-      "message": "أحسنت يا أحمد في تحدي الرياضيات أمس! إليك هذه الهدية.",
-      "date": "الآن",
-      "targetUsername": "ft"
-    }
-  ],
-  "specialBadges": [
-    {
-      "id": "badge_challenger",
-      "type": "badge",
-      "name": "المتحدي الأول",
-      "cost": 500,
-      "levelRequired": 2,
-      "value": "🔥",
-      "description": "شارة لمن يكمل التحديات اليومية بانتظام",
-      "targetUsername": null
-    },
-    {
-      "id": "badge_creative",
-      "type": "badge",
-      "name": "المبدع",
-      "cost": 1000,
-      "levelRequired": 5,
-      "value": "🎨",
-      "description": "شارة للمبدعين في الرسم والفنون",
-      "targetUsername": null
-    },
-    {
-      "id": "badge_exclusive_ahmed",
-      "type": "badge",
-      "name": "صديق التطبيق",
-      "cost": 0,
-      "levelRequired": 1,
-      "value": "🤝",
-      "description": "شارة خاصة لصديقنا أحمد",
-      "targetUsername": "ahmed2025"
-    }
-  ]
+  "notifications": [],
+  "specialBadges": []
 }
