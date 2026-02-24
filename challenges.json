@@ -79,14 +79,14 @@
       "message": "مبروك! حصلت على عيدية خاصة. استخدم الكود أدناه للحصول على 500 عملة.",
       "date": "الآن",
       "codeToCopy": "EID_GIFT_2025",
-      "targetUsername": "mortuza@gmail.com"
+      "targetUsername": "good@boy.c"
     },
 {
   "id": "reward_unique_id_001",
   "title": "مكافأة التفوق 🌟",
   "message": "تم إضافة 200 عملة إلى رصيدك لمجهودك الرائع!",
   "date": "2024-05-20",
-  "targetEmail": "good@boy.c",
+  "targetEmail": "",
   "coins": 200
 }
   ],
