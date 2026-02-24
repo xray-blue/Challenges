@@ -80,7 +80,15 @@
       "date": "الآن",
       "codeToCopy": "EID_GIFT_2025",
       "targetUsername": "mortuza@gmail.com"
-    }
+    },
+{
+  "id": "reward_unique_id_001",
+  "title": "مكافأة التفوق 🌟",
+  "message": "تم إضافة 200 عملة إلى رصيدك لمجهودك الرائع!",
+  "date": "2024-05-20",
+  "targetEmail": "student@example.com",
+  "coins": 200
+}
   ],
   "specialBadges": []
 }
