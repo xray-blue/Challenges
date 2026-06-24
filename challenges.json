@@ -33,16 +33,16 @@
       "message": "هدية ترحيبية من التطبيق! 🎉"
     },
     {
-      "code": "NOERA",
+      "code": "NOERA1",
       "xp": 1550,
       "coins": 1500,
       "message": "هدية تعويض من التطبيق! 🎉"
     },
     {
-      "code": "GOLD_PACK_1",
-      "xp": 0,
+      "code": "NOERA",
+      "xp": 1000,
       "coins": 1000,
-      "message": "تم شحن 1000 عملة بنجاح 💰"
+      "message": "تم شحن 1000 عملة تعويضية للكرصة 💰"
     },
     {
       "code": "GOLD_PACK_2",
