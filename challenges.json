@@ -69,15 +69,7 @@
       "message": "عيدية مقبولة! 🍬"
     }
   ],
-  "gifts": [
-    {
-      "id": "gift_global_1",
-      "type": "box",
-      "message": "هدية للجميع بمناسبة انطلاق التطبيق",
-      "xp": 100,
-      "coins": 100
-    }
-  ],
+  
   "notifications": [
     {
       "id": "notif_eid_gift",
